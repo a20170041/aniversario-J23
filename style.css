@@ -1,0 +1,36 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body{
+  background-color: #003285;
+}
+p {
+  color: #ffffff;
+  font-family: Roboto, Calibri;
+  font-size: 150px;
+  font-weight: bold;
+  text-align: center;
+}
+img{
+  height: 500px;
+  margin: auto;
+}
+div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.encabezado img{
+  margin: 30px;
+  max-height: 150px;
+min-height: 75px;
+}
+.pastel-de-cumpleaños img{
+  margin: 100px;
+  height: 500px; /* Ajusta la altura como necesites */
+  width: auto;   /* Ajusta el ancho proporcionalmente */
+}
+
+.mensaje p{
+  font-family: Agency FB;
